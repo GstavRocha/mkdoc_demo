@@ -1,0 +1,12 @@
+site_name: Demonstração Mkdocs
+
+theme:
+  name: material
+  language: pt
+
+markdown_extensions:
+  - pymdownx.emoji
+
+plugins:
+  - mermaid2
+
